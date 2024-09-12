@@ -6,3 +6,9 @@ comprehensive collection of books, articles, blog posts, references, videos, and
 ## c++
 
 - [Using Cmake for Building OpenCV Application](https://girishjoshi.io/post/using-cmake-for-building-opencv-application/)
+
+---
+
+## misc
+- [LiFT Scholarship](https://www.linuxfoundation.org/about/lift-scholarships)
+  - application opens in april usually
