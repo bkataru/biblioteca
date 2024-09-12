@@ -12,6 +12,10 @@ comprehensive collection of books, articles, blog posts, references, videos, and
 - [Shape Rotation 101: An Intro to Einsum and Jax Transformers](https://sankalp.bearblog.dev/einsum-new/)
   - [https://huggingface.co/blog/dejavucoder/einsum](https://huggingface.co/blog/dejavucoder/einsum)
   - [https://news.ycombinator.com/item?id=40757335](https://news.ycombinator.com/item?id=40757335)
+ 
+## cloud
+
+- [Secure Kubernetes at the Edge](https://ubuntu.com/engage/secure-kubernetes-at-the-edge)
 
 ---
 
