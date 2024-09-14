@@ -26,3 +26,10 @@ comprehensive collection of books, articles, blog posts, references, videos, and
     - need to participate in global hack weeks
 - [Hacktoberfest 2024](https://hacktoberfest.com/)
 - [GitHub Developer Program](https://docs.github.com/en/get-started/exploring-integrations/github-developer-program)
+
+## cool things to work on and cool places to work at
+
+- [Extropic AI](https://www.extropic.ai/)
+- [Exo Labs](https://exolabs.net/)
+- [quantum steampunk](https://www.quantamagazine.org/can-thermodynamics-go-quantum-20240912/)
+- [vorticity.xyz](https://vorticity.xyz/)
