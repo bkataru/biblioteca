@@ -18,7 +18,7 @@ comprehensive collection of books, articles, blog posts, references, videos, and
 - [Secure Kubernetes at the Edge](https://ubuntu.com/engage/secure-kubernetes-at-the-edge)
 
 ## gpu
-
+- [How to get your CUDA application running in a Docker container](https://www.celantur.com/blog/run-cuda-in-docker-on-linux/)
 - [How to Install NVIDIA Drivers on Fedora Linux](https://www.tecmint.com/install-nvidia-drivers-in-linux/)
 - [Fedora 40/39/38 NVIDIA Drivers Install Guide](https://www.if-not-true-then-false.com/2015/fedora-nvidia-guide/#1-before-nvidia-drivers-installation)
 - [Install NVIDIA CUDA Toolkit 12.6.1 on Fedora 40/39](https://www.if-not-true-then-false.com/2018/install-nvidia-cuda-toolkit-on-fedora/)
