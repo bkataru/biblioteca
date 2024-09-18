@@ -24,6 +24,10 @@ comprehensive collection of books, articles, blog posts, references, videos, and
 - [Install NVIDIA CUDA Toolkit 12.6.1 on Fedora 40/39](https://www.if-not-true-then-false.com/2018/install-nvidia-cuda-toolkit-on-fedora/)
 - [Reddit: comment on "Nvidia drivers on Fedora 40"](https://www.reddit.com/r/Fedora/comments/1buai1x/comment/kxroiks/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
+## web dev
+
+- [Full Stack open](https://fullstackopen.com/en/)
+
 ---
 
 ## misc
