@@ -27,6 +27,7 @@ comprehensive collection of books, articles, blog posts, references, videos, and
 ## web dev
 
 - [Full Stack open](https://fullstackopen.com/en/)
+- [The Odin Project](https://www.theodinproject.com/)
 
 ---
 
