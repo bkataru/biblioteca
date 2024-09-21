@@ -29,15 +29,19 @@ comprehensive collection of books, articles, blog posts, references, videos, and
 - [Full Stack open](https://fullstackopen.com/en/)
 - [The Odin Project](https://www.theodinproject.com/)
 
----
+## opportunities
 
-## misc
+- [Devpost - The home for hackathons](https://devpost.com/)
 - [LiFT Scholarship](https://www.linuxfoundation.org/about/lift-scholarships)
   - application opens in april usually
 - [MLH Fellowship](https://fellowship.mlh.io/)
     - need to participate in global hack weeks
 - [Hacktoberfest 2024](https://hacktoberfest.com/)
 - [GitHub Developer Program](https://docs.github.com/en/get-started/exploring-integrations/github-developer-program)
+
+## misc
+
+- [FediDB - Fediverse network statistics](https://fedidb.org/)
 
 ## cool things to work on and cool places to work at
 
