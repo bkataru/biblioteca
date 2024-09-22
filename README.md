@@ -29,6 +29,7 @@ comprehensive collection of books, articles, blog posts, references, videos, and
 ## mlops
 
 - [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering)
+- [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
 ## data science
 
