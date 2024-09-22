@@ -1,8 +1,6 @@
 # biblioteca
 comprehensive collection of books, articles, blog posts, references, videos, and other kinds of resources that I've found useful and reliable.
 
----
-
 ## c++
 
 - [Using Cmake for Building OpenCV Application](https://girishjoshi.io/post/using-cmake-for-building-opencv-application/)
@@ -23,6 +21,8 @@ comprehensive collection of books, articles, blog posts, references, videos, and
 - [Fedora 40/39/38 NVIDIA Drivers Install Guide](https://www.if-not-true-then-false.com/2015/fedora-nvidia-guide/#1-before-nvidia-drivers-installation)
 - [Install NVIDIA CUDA Toolkit 12.6.1 on Fedora 40/39](https://www.if-not-true-then-false.com/2018/install-nvidia-cuda-toolkit-on-fedora/)
 - [Reddit: comment on "Nvidia drivers on Fedora 40"](https://www.reddit.com/r/Fedora/comments/1buai1x/comment/kxroiks/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+---
 
 - [Programming Massively Parallel Processors: A Hands-on Approach](https://www.amazon.com/dp/B0B2R8VT2W?ref_=cm_sw_r_cp_ud_dp_BF6T9VZFJH1GMDEXG91Q)
 
