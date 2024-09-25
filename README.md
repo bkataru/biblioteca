@@ -54,9 +54,10 @@ comprehensive collection of books, articles, blog posts, references, videos, and
 
 - [FediDB - Fediverse network statistics](https://fedidb.org/)
 
-## cool things to work on and cool places to work at
+## cool things to study/work on and cool places to study/work at
 
 - [Extropic AI](https://www.extropic.ai/)
 - [Exo Labs](https://exolabs.net/)
 - [quantum steampunk](https://www.quantamagazine.org/can-thermodynamics-go-quantum-20240912/)
 - [vorticity.xyz](https://vorticity.xyz/)
+- [okinawa institute of science and technology (OIST)](https://admissions.oist.jp/oist-research-internship-program-description)
