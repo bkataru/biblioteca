@@ -1,6 +1,10 @@
 # biblioteca
 comprehensive collection of books, articles, blog posts, references, videos, and other kinds of resources that I've found useful and reliable.
 
+## broad
+
+- [Programming Notes for Professionals books](https://goalkicker.com/)
+
 ## c++
 
 - [Using Cmake for Building OpenCV Application](https://girishjoshi.io/post/using-cmake-for-building-opencv-application/)
