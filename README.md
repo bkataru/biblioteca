@@ -1,7 +1,7 @@
 # biblioteca
 comprehensive collection of books, articles, blog posts, references, videos, and other kinds of resources that I've found useful and reliable.
 
-## broad
+## general
 
 - [Programming Notes for Professionals books](https://goalkicker.com/)
 
