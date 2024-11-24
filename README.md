@@ -44,6 +44,11 @@ comprehensive collection of books, articles, blog posts, references, videos, and
 - [Full Stack open](https://fullstackopen.com/en/)
 - [The Odin Project](https://www.theodinproject.com/)
 
+## cybersec
+
+- [WhiteRabbitNeo](https://www.whiterabbitneo.com/)
+- [huggingface.co/WhiteRabbitNeo](https://huggingface.co/WhiteRabbitNeo)
+
 ## opportunities
 
 - [Devpost - The home for hackathons](https://devpost.com/)
