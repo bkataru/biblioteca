@@ -48,6 +48,8 @@ comprehensive collection of books, articles, blog posts, references, videos, and
 
 - [WhiteRabbitNeo](https://www.whiterabbitneo.com/)
 - [huggingface.co/WhiteRabbitNeo](https://huggingface.co/WhiteRabbitNeo)
+- [Distributed Denial of Secrets](https://ddosecrets.com/)
+- [';--have i been pwned?](https://haveibeenpwned.com/)
 
 ## opportunities
 
